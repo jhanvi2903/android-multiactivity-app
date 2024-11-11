@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actors>
+<section>
+    <name>Bollywood Actors</name>
+    <image>cinema.png</image>
+    <total_actors>5</total_actors>
+    <actor>
+    <actress>
+        <id>1</id>
+        <Actorname>Shraddha Kapoor</Actorname>
+        <industry_logo>shraddha.png</industry_logo>
+        <age>37</age>
+        <birthplace>Mumbai, India</birthplace>
+        <shortDescription>Versatile actress known for her performances in romantic and musical films.</shortDescription>
+        <details>Shraddha Kapoor is a prominent Bollywood actress acclaimed for her range of roles in Indian cinema. She gained widespread recognition with her breakout role in the romantic drama "Aashiqui 2," where she also showcased her singing talent. Kapoor has since starred in various successful films, including the action-packed "Baaghi" and the horror-comedy "Stree," cementing her versatility as an actress. In addition to acting, she has captivated audiences with her singing.</details>
+        <webURL>https://en.wikipedia.org/wiki/Shraddha_Kapoor</webURL>
+    </actress>
+
+    <actress>
+        <id>2</id>
+        <Actorname>Katrina Kaif</Actorname>
+        <industry_logo>katrina.jpg</industry_logo>
+        <age>41</age>
+        <birthplace>British Hong Kong</birthplace>
+        <shortDescription>Renowned actress and model known for her stunning performances in Bollywood films.</shortDescription>
+        <details>Katrina Kaif is one of the most popular actresses in Indian cinema, known for her roles in films such as "Zindagi Na Milegi Dobara," "Tiger Zinda Hai," and "Jab Tak Hai Jaan." With a successful career spanning over a decade, she is celebrated for her dance skills, on-screen charisma, and versatility as an actress. Beyond her film career, Katrina has ventured into entrepreneurship, launching her own beauty line, Kay Beauty, which has gained substantial popularity.
+        </details>
+        <webURL>https://en.wikipedia.org/wiki/Katrina_Kaif</webURL>
+    </actress>
+
+    <actress>
+        <id>3</id>
+        <Actorname>Deepika Padukone</Actorname>
+        <industry_logo>deepika.png</industry_logo>
+        <age>38</age>
+        <birthplace>Copenhagen, Denmark</birthplace>
+        <shortDescription>Award-winning actress known for her versatility and powerful performances.</shortDescription>
+        <details>Deepika Padukone is one of Bollywood's most acclaimed actresses, known for her roles in films like "Padmaavat," "Chennai Express," and "Bajirao Mastani." She has won multiple awards and is celebrated for her impact on and off the screen. She has received numerous accolades, including Filmfare Awards, and has frequently been featured on lists of the most beautiful people globally. Known for her iconic style, she has also been a prominent figure at international events.
+        </details>
+        <webURL>https://en.wikipedia.org/wiki/Deepika_Padukone</webURL>
+    </actress>
+
+    <actress>
+        <id>4</id>
+        <Actorname>Priyanka Chopra</Actorname>
+        <industry_logo>priyanka.png</industry_logo>
+        <age>42</age>
+        <birthplace>Bihar, India</birthplace>
+        <shortDescription>Global icon and former Miss World, known for her work in Bollywood and Hollywood.</shortDescription>
+        <details>Priyanka Chopra is an award-winning actress with a successful career in Bollywood, as well as a growing presence in Hollywood. Known for her roles in "Bajirao Mastani" and "Mary Kom," she is celebrated as a trailblazer in international cinema. As one of the first South Asian actors to lead a major American TV series, Quantico, Priyanka became a trailblazer in Hollywood, opening doors for more diverse casting and representation in Western media.
+        </details>
+        <webURL>https://en.wikipedia.org/wiki/Priyanka_Chopra</webURL>
+    </actress>
+
+    <actress>
+        <id>5</id>
+        <Actorname>Alia Bhatt</Actorname>
+        <industry_logo>alia.png</industry_logo>
+        <age>31</age>
+        <birthplace>Mumbai, India</birthplace>
+        <shortDescription>Young and talented actress known for her diverse roles.</shortDescription>
+        <details>Alia Bhatt is celebrated for her performances in films such as "Raazi," "Gully Boy," and "Highway." Known for her versatility, she has quickly become one of the most sought-after actresses in Bollywood. Alia has received numerous awards and nominations for her work, including Filmfare Awards. Her strong performances and ability to resonate with diverse audiences have made her one of Bollywood’s most celebrated actresses.
+        </details>
+        <webURL>https://en.wikipedia.org/wiki/Alia_Bhatt</webURL>
+    </actress>
+    </actor>
+</section>
+
+<section>
+<name>Hollywood Actors</name>
+<image>hollywood.jpg</image>
+<total_actors>4</total_actors>
+ <actor>
+    <actress>
+        <id>1</id>
+        <Actorname>Scarlett Johansson</Actorname>
+        <industry_logo>scarlett_johansson.jpg</industry_logo>
+        <age>39</age>
+        <birthplace>New York, United States</birthplace>
+        <shortDescription>Acclaimed actress known for her roles in action and drama films.</shortDescription>
+        <details>Scarlett Johansson is a versatile actress celebrated for her performances in films such as "Lost in Translation," "The Avengers," and "Marriage Story." She is one of the highest-grossing actresses of all time, known for her talent and dynamic range.  she has worked with luxury brands such as Dolce and Gabbana and Louis Vuitton and remains a regular presence on the red carpet.
+        </details>
+        <webURL>https://en.wikipedia.org/wiki/Scarlett_Johansson</webURL>
+    </actress>
+
+     <actress>
+         <id>2</id>
+         <Actorname>Dakota Johnson</Actorname>
+         <industry_logo>dakota.jpg</industry_logo>
+         <age>35</age>
+         <birthplace>Austin, Texas, USA</birthplace>
+         <shortDescription>American actress and model known for her roles in both indie and mainstream films.</shortDescription>
+         <details>Dakota Johnson rose to fame with her role in the "Fifty Shades" film series and has since established herself in both dramatic and comedic roles, showcasing her versatility and natural screen presence. In addition to dramatic roles, Johnson has also excelled in comedy. Her role in How to Be Single (2016) highlighted her natural comedic timing and charm, while her performance in The Peanut Butter Falcon showcased her compassion as a caregiver.</details>
+         <webURL>https://en.wikipedia.org/wiki/Dakota_Johnson</webURL>
+     </actress>
+
+     <actress>
+         <id>3</id>
+         <Actorname>Penelope Cruz</Actorname>
+         <industry_logo>penelope.jpg</industry_logo>
+         <age>50</age>
+         <birthplace>Alcobendas, Madrid, Spain</birthplace>
+         <shortDescription>Academy Award-winning Spanish actress known for her work in both Spanish and international films.</shortDescription>
+         <details>Penélope Cruz is celebrated for her roles in films such as "Vicky Cristina Barcelona" and "Volver." She has worked with renowned directors and won several awards for her performances, including an Oscar.  Her career took off internationally when she began working with director Pedro Almodóvar, a collaboration that would become one of the most defining of her career.</details>
+         <webURL>https://en.wikipedia.org/wiki/Penélope_Cruz</webURL>
+     </actress>
+
+     <actress>
+         <id>4</id>
+         <Actorname>Emma Watson</Actorname>
+         <industry_logo>emma.jpg</industry_logo>
+         <age>34</age>
+         <birthplace>Paris, France</birthplace>
+         <shortDescription>British actress, model, and activist known for her role as Hermione Granger in the Harry Potter series.</shortDescription>
+         <details>Emma Watson gained worldwide fame as Hermione in the "Harry Potter" films. Beyond acting, she is a prominent activist and has been an advocate for gender equality, receiving praise for her work both on and off screen. Watson’s commitment to ethical fashion also led her to become a member of the board of Kering, the luxury fashion group that includes brands like Gucci and Saint Laurent.</details>
+         <webURL>https://en.wikipedia.org/wiki/Emma_Watson</webURL>
+     </actress>
+    </actor>
+</section>
+
+<section>
+<name>Turkish Actors</name>
+<image>turkey.jpg</image>
+<total_actors>4</total_actors>
+    <actor>
+        <actress>
+            <id>1</id>
+            <Actorname>Gizem Karaca</Actorname>
+            <industry_logo>gizem.jpg</industry_logo>
+            <age>32</age>
+            <birthplace>Istanbul, Turkey</birthplace>
+            <shortDescription>Popular actress and model known for her roles in Turkish dramas.</shortDescription>
+            <details>Gizem Karaca is a well-known Turkish actress and model who gained recognition after competing in the Miss Turkey beauty pageant. She has starred in popular Turkish TV series such as "Eve Düşen Yıldırım," "Benim Hala Umudum Var," and "İstanbul Sokakları." Known for her elegance and strong on-screen presence, she has earned a dedicated fan base in Turkey and beyond. Outside of acting, Karaca has become a style icon, often seen at high-profile events.
+            </details>
+            <webURL>https://en.wikipedia.org/wiki/Gizem_Karaca</webURL>
+        </actress>
+
+        <actress>
+            <id>2</id>
+            <Actorname>Hazal Kaya</Actorname>
+            <industry_logo>hazal.jpg</industry_logo>
+            <age>33</age>
+            <birthplace>Konya, Turkey</birthplace>
+            <shortDescription>Young and talented actress, known for her relatable roles in Turkish dramas.</shortDescription>
+            <details>Hazal Kaya rose to fame with her roles in "Adını Feriha Koydum" and "Bizim Hikaye." Her youthful charm and skillful portrayals have made her popular among younger audiences. Her popularity has continued to grow internationally, especially in the Middle East and Latin America, where Turkish dramas have a dedicated following. Hazal Kaya’s success extends beyond acting; she is recognized as a style icon and has worked with major brands like Lux and Fendi.
+            </details>
+            <webURL>https://en.wikipedia.org/wiki/Hazal_Kaya</webURL>
+        </actress>
+
+        <actress>
+            <id>3</id>
+            <Actorname>Hande Ercel</Actorname>
+            <industry_logo>hande.jpg</industry_logo>
+            <age>30</age>
+            <birthplace>Bandırma, Turkey</birthplace>
+            <shortDescription>Popular Turkish actress known for her roles in romantic comedies and dramas.</shortDescription>
+            <details>Hande Ercel gained widespread recognition for her roles in "Aşk Laftan Anlamaz" and "Sen Çal Kapımı." Her captivating performances and charm have made her a fan favorite. Her ability to take on both comedic and dramatic roles with ease has shown her versatility as an actress, while her infectious energy and warmth have made her a fan favorite. She has also worked with major brands, becoming the face of various high-profile fashion campaigns</details>
+            <webURL>https://en.wikipedia.org/wiki/Hande_Erçel</webURL>
+        </actress>
+
+        <actress>
+            <id>4</id>
+            <Actorname>Neslihan Atagul</Actorname>
+            <industry_logo>neslihan.jpg</industry_logo>
+            <age>32</age>
+            <birthplace>Istanbul, Turkey</birthplace>
+            <shortDescription>Award-winning Turkish actress celebrated for her dramatic roles in popular TV series.</shortDescription>
+            <details>Neslihan Atagul is best known for her performances in "Fatih Harbiye" and "Kara Sevda." Her powerful portrayals have earned her acclaim both domestically and internationally. In addition to her successful TV career, Atagül has also ventured into film, where she has continued to showcase her acting range. Her roles in movies like Sefirin Kızı (2020) and Beni Affet have been well-received, further solidifying her status as one of Turkey's top actresses.</details>
+            <webURL>https://en.wikipedia.org/wiki/Neslihan_Atagül</webURL>
+        </actress>
+    </actor>
+</section>
+</actors>
