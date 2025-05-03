@@ -1,6 +1,6 @@
 ## 📱 Multi-Activity Android App Demo
 
-<img src="multiactivityapp-new-rec.gif" width="200" height="350"/>
+<img src="multiactivity-app-gif.gif" width="200" height="350"/>
 
 This app demonstrates a multi-activity flow:
 
